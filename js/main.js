@@ -39,8 +39,7 @@
 
 
 	const addressCardano1 =
-	`https://cardano-mainnet.blockfrost.io/api/v0/addresses/addr1qx5c5ydtw2xrmwj6tqj3s4yd9sck5rgcr5d22haa9jq6j2crcz99ppc0fld4m03rhm3s23v3f0nhayjpd5yu6qfu0zvsp64vph
-	/total`;
+	`https://cardano-mainnet.blockfrost.io/api/v0/addresses/addr1qx5c5ydtw2xrmwj6tqj3s4yd9sck5rgcr5d22haa9jq6j2crcz99ppc0fld4m03rhm3s23v3f0nhayjpd5yu6qfu0zvsp64vph/total`;
 
 	const addressCardano2 =
 	`https://cardano-mainnet.blockfrost.io/api/v0/addresses/addr1qysdt8l9unds43hcuvx8e73t05lvs27djktjed8lcj9d4fqx78z7ek4j8v2v9sczcjvw80mh3wmk82ygnlp9xww2gscq38s4jp/total`;
